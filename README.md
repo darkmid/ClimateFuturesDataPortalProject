@@ -10,5 +10,3 @@ Developed as a BICT degree final project by:
 - Yulong Cai
 - Maminul Islam Nabil
 - Mirza Istiaque Ahmed 
-
-![Step 1 section of data portal](http://puu.sh/GEtuG.jpg)
